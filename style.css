@@ -1,121 +1,13 @@
-
 body{
-    background-color: black;
+    background-color: rgb(42, 42, 42);
+    color: darkgray;
 }
-.container{
-    max-width: 100%;
-    max-height: 100%;
-   
-}
-.pic{
-    width: 500px;
-    height: 1000px;
-    float: left;
-
-
-}
-.hlo
-{
-    color:black;
-    left:20px;
-    font-size: 20px;
-    font-size: 30px;
-    position: absolute;
-    bottom: -30%;
-}
-.hlo1
-{
-    color:black;
-    left:20px;
-    font-size: 35px;
-    position: absolute;
-    bottom: -40%;
-}
-
-.about
-{
+h1, h2, h3{
     color: white;
 }
-.old
-{
+span{
     color: green;
 }
-#firstpara
-{
-    color: white;
-}
-#sec
-{
-    color: honeydew;
-}
-.servics
-
-{
-    color: white;
-}
-#agr{
-   
-    color: white;
-}
-.deve
-{
-    
-    color:dimgrey;
-
-  border-top-left-radius: 200px;
-   bottom: 300px;
-   right: 0px;
- 
-
-    width: 200px;
-}
-#mgr{
-    color: white;
-    
-}
-.seo{
-    color:dimgrey;
-   position:absolute;
-   width: 200px;
-   height: 100px;
-   right: 300px;
-   top: 250px;
-   
-  
-  
-   
-    
-   
-  
-}
-#jigr{
-    color: white;
-}
-.data
-{
-    color:dimgrey;
-    width: 200px;
-}
-#mahu{
-    color: white;
-}
-.secu
-{
-    color:dimgrey;
-    position: absolute;
-    width: 200px;
-    height: 100px;
-    right: 300px;
-    top: 490px;
-   
-
- 
-    
-}
-#third{
-    color:dimgrey;
-    position: absolute;
-    right: 100px;
-    left: 1100px;
-    top: 495px;
+h3{
+    text-align: left;
 }
